@@ -1,0 +1,9 @@
+body {
+    margin-top: 50px;
+    text-align: center;
+} 
+
+#datetime {
+    font-size: 24px;
+    color: red;
+}
